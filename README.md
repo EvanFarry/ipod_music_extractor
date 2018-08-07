@@ -11,4 +11,4 @@ Example:
 
 This process is destructive so I suggest making a copy of your library to run the script on.
 
-Thanks to Tom Wallroth for the excellent TinyTag Library: https://github.com/devsnd/tinytag
+> Thanks to Tom Wallroth for the excellent TinyTag Library: https://github.com/devsnd/tinytag
